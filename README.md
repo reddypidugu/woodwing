@@ -23,3 +23,19 @@
  Utils package contains the code to extract the number/integer value from String input params and will be 
  re-used to extract the integer values the both params.
  
+ ## How to run
+ 
+ * Compile the code and build jar 
+ ````
+  mvn clean install
+ ````
+ 
+ * Run the application
+ ````
+  mvn spring-boot:run
+ ```` 
+ 
+ ## Tools/technologies used used
+ * Java 8
+ * Spring Boot REST
+ * Maven 

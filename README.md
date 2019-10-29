@@ -35,7 +35,7 @@
   mvn spring-boot:run
  ```` 
  
- ## Tools/technologies used used
+ ## Tools/technologies used
  * Java 8
  * Spring Boot REST
  * Maven 
